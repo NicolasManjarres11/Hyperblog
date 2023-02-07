@@ -42,3 +42,13 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    font-size: 30px;
+    color: blanchedalmond;
+    background-color: darkslategrey;
+    font-weight: normal;
+    font-size: medium;
+    text-align: center;
+}
